@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Lato|Supermercado+One');
 
-/* Use the 'Lato' font family at 18px throughout the body of the document, and cover the background with the 'map-bg.jpg' image. */
+/* Use the 'Lato' font family at 18px throughout the body of the document, and cover the background with the './img/map-bg.jpg' image. */
 nav {font-family: sans-serif; font-size: 10px;}
 
 #main {width: 900px; margin: 10px auto;}
